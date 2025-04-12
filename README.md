@@ -76,7 +76,7 @@ This guide walks you through setting up the Healthcare AI Content Relevance Scor
 ### Steps to Use the Project
 
 ### Clone the repo
-git clone https://github.com/Zh1end22/healthcare-ai-content-api.git
+git clone https://github.com/Zh1end22/Healthcare-AI-Content-Relevance-API.git
 cd healthcare-ai-content-api
 
 ### Create virtual environment
